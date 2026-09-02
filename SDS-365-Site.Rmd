@@ -1,0 +1,25 @@
+---
+title: "Angela Zhao"
+image: "me.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/a2ngela"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+My name is Angela Zhao. I am a 4th year Statistics and Data Science major at the 
+University of Texas at Austin. Some of my hobbies outside of school include 
+dancing, crocheting, watching shows, playing the flute, and eating.
+
+## Favorite Foods Currently
+
+- hotpot (tomato base specifically)
+- fried chicken
+- shaved ice
+
+```{r}
+Sys.time()
+```
